@@ -1,0 +1,779 @@
+06/28/2020 08:34:26 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:34:26 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:34:26 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:34:27 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:34:27 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and locator type xpath
+06/28/2020 08:34:27 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/28/2020 08:34:28 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:34:32 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:34:37 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:34:37 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:34:37 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:34:37 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:34:37 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:34:37 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:34:37 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:34:37 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:34:37 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:34:38 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:34:38 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:34:38 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:34:38 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:34:38 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:34:43 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:34:43 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:34:43 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:34:43 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:34:43 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:34:43 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:34:43 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:34:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:34:44 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:34:44 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:34:44 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:34:49 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:34:49 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:34:54 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:34:59 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:34:59 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:35:04 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:35:04 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 08:35:09 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 08:35:10 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 08:35:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 08:35:10 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 08:35:10 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 08:35:11 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 08:35:11 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:35:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:35:11 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:35:11 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:35:11 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] and locator type xpath
+06/28/2020 08:35:12 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+06/28/2020 08:35:12 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:35:16 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:35:21 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:35:21 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:35:21 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:35:21 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:35:21 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:35:21 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:35:21 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:35:21 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:35:21 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:35:21 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:35:22 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:35:22 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:35:22 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:35:22 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:35:27 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:35:32 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:35:32 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:35:37 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:35:42 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:35:42 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:35:47 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:35:47 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 08:35:53 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 08:35:53 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 08:35:53 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 08:35:53 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 08:35:54 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 08:36:03 PM - LoginPage - INFO: Element not found with locator: Login and locator type link
+06/28/2020 08:36:03 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/28/2020 08:36:08 PM - LoginPage - INFO: Element not found with locator: user_email and locator type id
+06/28/2020 08:36:08 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/28/2020 08:36:13 PM - LoginPage - INFO: Element not found with locator: user_password and locator type id
+06/28/2020 08:36:13 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/28/2020 08:36:18 PM - LoginPage - INFO: Element not found with locator: commit and locator type name
+06/28/2020 08:36:18 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+06/28/2020 08:36:23 PM - LoginPage - INFO: Element not found with locator: //div[contains(@class, 'alert') and contains(text(), 'Invalid email or password.')] and locator type xpath
+06/28/2020 08:36:23 PM - LoginPage - INFO: Element not found
+06/28/2020 08:36:24 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/28/2020 08:36:24 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/28/2020 08:36:26 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/28/2020 08:36:27 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/28/2020 08:36:27 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/28/2020 08:36:27 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/28/2020 08:36:27 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/28/2020 08:36:27 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/28/2020 08:36:31 PM - LoginPage - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/screenshot_test.1593365787256.png
+06/28/2020 08:36:31 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+06/28/2020 08:36:31 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+06/28/2020 08:36:31 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+06/28/2020 08:36:31 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title is correct
+06/28/2020 08:36:32 PM - LoginPage - INFO: Element Found with locator: //*[@id='navbar']//img[contains(@class, 'gravatar')] and locator type xpath
+06/28/2020 08:36:32 PM - LoginPage - INFO: Element Found
+06/28/2020 08:36:32 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login icon is correct
+06/28/2020 08:36:32 PM - TestStatus - INFO: test_valid_login ### TEST SUCCESSFUL
+06/28/2020 08:42:17 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:42:17 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:42:17 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:42:17 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:42:18 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and locator type xpath
+06/28/2020 08:42:18 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/28/2020 08:42:19 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:42:24 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:42:29 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:42:29 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:42:29 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:42:29 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:42:29 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:42:29 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:42:29 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:42:29 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:42:30 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:42:30 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:42:30 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:42:30 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:42:30 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:42:30 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:42:35 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:42:35 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:42:35 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:42:35 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:42:35 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:42:35 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:42:35 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:42:36 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:42:36 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:42:36 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:42:36 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:42:41 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:42:41 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:42:46 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:42:51 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:42:51 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:42:56 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:42:56 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:43:01 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:43:01 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:43:01 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:43:01 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:43:01 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:43:01 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 08:43:01 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:43:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 08:43:01 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 08:43:02 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 08:43:02 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 08:43:02 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 08:43:02 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 08:43:02 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 08:43:02 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 08:43:03 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 08:43:03 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:43:03 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:43:03 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:43:04 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:43:05 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] and locator type xpath
+06/28/2020 08:43:05 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+06/28/2020 08:43:07 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:43:10 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:43:16 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:43:16 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:43:21 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:43:21 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:43:22 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:43:22 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:43:22 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:43:22 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:43:22 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:43:22 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:43:22 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:43:22 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:43:22 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:43:27 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:43:27 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:43:32 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:43:37 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:43:37 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:43:42 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:43:42 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:43:47 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:43:47 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:43:47 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:43:47 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:43:47 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:43:47 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 08:43:47 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:43:48 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 08:43:48 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 08:43:48 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 08:43:48 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 08:43:48 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 08:43:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 08:43:48 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 08:43:48 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 08:43:49 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 08:43:54 PM - NavigationPage - INFO: Element not found with locator: _successful_login and locator type xpath
+06/28/2020 08:43:54 PM - NavigationPage - INFO: Cannot click on the element with locator: _successful_login locatorType: xpath
+06/28/2020 08:43:54 PM - NavigationPage - INFO: Element Found with locator: .user-signout and locator type css
+06/28/2020 08:43:59 PM - NavigationPage - INFO: Cannot click on the element with locator: .user-signout locatorType: css
+06/28/2020 08:44:09 PM - LoginPage - INFO: Element not found with locator: Login and locator type link
+06/28/2020 08:44:09 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/28/2020 08:44:09 PM - LoginPage - INFO: Element not found with locator: user_email and locator type id
+06/28/2020 08:44:09 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/28/2020 08:44:09 PM - LoginPage - INFO: Element not found with locator: user_password and locator type id
+06/28/2020 08:44:09 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/28/2020 08:44:09 PM - LoginPage - INFO: Element not found with locator: commit and locator type name
+06/28/2020 08:44:09 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+06/28/2020 08:44:09 PM - LoginPage - INFO: Element not found with locator: //div[contains(@class, 'alert') and contains(text(), 'Invalid email or password.')] and locator type xpath
+06/28/2020 08:44:09 PM - LoginPage - INFO: Element not found
+06/28/2020 08:50:38 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:50:38 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:50:38 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:50:39 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:50:39 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and locator type xpath
+06/28/2020 08:50:39 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/28/2020 08:50:40 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:50:44 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:50:49 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:50:49 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:50:49 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:50:49 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:50:49 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:50:49 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:50:49 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:50:49 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:50:49 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:50:50 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:50:50 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:50:50 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:50:50 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:50:50 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:50:55 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:50:55 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:50:55 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:50:55 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:50:55 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:50:55 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:50:55 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:50:56 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:50:56 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:50:56 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:50:56 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:51:01 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:51:01 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:51:06 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:51:11 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:51:11 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:51:16 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:51:16 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 08:51:21 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 08:51:22 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 08:51:22 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 08:51:22 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 08:51:22 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 08:51:23 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 08:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:51:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:51:23 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:51:23 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:51:24 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] and locator type xpath
+06/28/2020 08:51:24 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+06/28/2020 08:51:25 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:51:28 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:51:34 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:51:34 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:51:34 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:51:34 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:51:34 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:51:34 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:51:34 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:51:34 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:51:34 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:51:34 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:51:35 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:51:35 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:51:35 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:51:35 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:51:40 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:51:45 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:51:45 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:51:50 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:51:56 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:51:56 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:52:01 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:52:01 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 08:52:06 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 08:52:06 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 08:52:06 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 08:52:06 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 08:52:07 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 08:52:12 PM - NavigationPage - INFO: Element not found with locator: _successful_login and locator type xpath
+06/28/2020 08:52:12 PM - NavigationPage - INFO: Cannot click on the element with locator: _successful_login locatorType: xpath
+06/28/2020 08:52:12 PM - NavigationPage - INFO: Element Found with locator: .user-signout and locator type css
+06/28/2020 08:52:17 PM - NavigationPage - INFO: Cannot click on the element with locator: .user-signout locatorType: css
+06/28/2020 08:52:26 PM - LoginPage - INFO: Element not found with locator: Login and locator type link
+06/28/2020 08:52:26 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/28/2020 08:52:31 PM - LoginPage - INFO: Element not found with locator: user_email and locator type id
+06/28/2020 08:52:31 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/28/2020 08:52:37 PM - LoginPage - INFO: Element not found with locator: user_password and locator type id
+06/28/2020 08:52:37 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/28/2020 08:52:42 PM - LoginPage - INFO: Element not found with locator: commit and locator type name
+06/28/2020 08:52:42 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+06/28/2020 08:52:47 PM - LoginPage - INFO: Element not found with locator: //div[contains(@class, 'alert') and contains(text(), 'Invalid email or password.')] and locator type xpath
+06/28/2020 08:52:47 PM - LoginPage - INFO: Element not found
+06/28/2020 08:52:47 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/28/2020 08:52:48 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/28/2020 08:52:50 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/28/2020 08:52:50 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/28/2020 08:52:50 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/28/2020 08:52:50 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/28/2020 08:52:50 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/28/2020 08:52:50 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/28/2020 08:52:52 PM - LoginPage - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/screenshot_test.1593366770574.png
+06/28/2020 08:52:52 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+06/28/2020 08:52:52 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+06/28/2020 08:52:52 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+06/28/2020 08:52:52 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title is correct
+06/28/2020 08:52:52 PM - LoginPage - INFO: Element Found with locator: //*[@id='navbar']//img[contains(@class, 'gravatar')] and locator type xpath
+06/28/2020 08:52:52 PM - LoginPage - INFO: Element Found
+06/28/2020 08:52:52 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login icon is correct
+06/28/2020 08:52:52 PM - TestStatus - INFO: test_valid_login ### TEST SUCCESSFUL
+06/28/2020 08:54:20 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/28/2020 08:54:20 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/28/2020 08:54:23 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/28/2020 08:54:23 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/28/2020 08:54:23 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/28/2020 08:54:23 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/28/2020 08:54:23 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/28/2020 08:54:23 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/28/2020 08:54:26 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:54:26 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:54:26 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:54:26 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:54:27 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and locator type xpath
+06/28/2020 08:54:27 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/28/2020 08:54:28 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:54:31 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:54:36 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:54:36 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:54:36 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:54:36 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:54:36 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:54:36 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:54:36 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:54:36 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:54:36 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:54:37 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:54:37 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:54:37 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:54:37 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:54:37 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:54:42 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:54:47 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:54:47 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:54:53 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:54:58 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:54:58 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:55:03 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:55:03 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 08:55:08 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 08:55:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 08:55:08 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 08:55:08 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 08:55:10 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 08:55:10 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:55:10 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:55:10 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:55:10 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:55:11 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] and locator type xpath
+06/28/2020 08:55:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+06/28/2020 08:55:12 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:55:15 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:55:20 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:55:20 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:55:20 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:55:20 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:55:20 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:55:20 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:55:20 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:55:20 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:55:20 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:55:21 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:55:21 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:55:21 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:55:21 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:55:21 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:55:26 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:55:26 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:55:26 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:55:26 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:55:26 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:55:26 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:55:26 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:55:27 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:55:27 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:55:27 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:55:27 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:55:32 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:55:32 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:55:37 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:55:42 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:55:42 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:55:47 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:55:47 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:55:52 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:55:52 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:55:52 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:55:52 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:55:52 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:55:52 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 08:55:52 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:55:52 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 08:55:52 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 08:55:53 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 08:55:53 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 08:55:53 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 08:55:53 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 08:55:53 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 08:55:53 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 08:55:54 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 08:55:59 PM - NavigationPage - INFO: Element not found with locator: _successful_login and locator type xpath
+06/28/2020 08:55:59 PM - NavigationPage - INFO: Cannot click on the element with locator: _successful_login locatorType: xpath
+06/28/2020 08:55:59 PM - NavigationPage - INFO: Element Found with locator: .user-signout and locator type css
+06/28/2020 08:56:04 PM - NavigationPage - INFO: Cannot click on the element with locator: .user-signout locatorType: css
+06/28/2020 08:56:04 PM - NavigationPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2020 08:56:17 PM - NavigationPage - INFO: Element not appeared on the web page
+06/28/2020 08:56:26 PM - LoginPage - INFO: Element not found with locator: Login and locator type link
+06/28/2020 08:56:26 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/28/2020 08:56:31 PM - LoginPage - INFO: Element not found with locator: user_email and locator type id
+06/28/2020 08:56:31 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/28/2020 08:56:36 PM - LoginPage - INFO: Element not found with locator: user_password and locator type id
+06/28/2020 08:56:36 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/28/2020 08:56:41 PM - LoginPage - INFO: Element not found with locator: commit and locator type name
+06/28/2020 08:56:41 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+06/28/2020 08:56:46 PM - LoginPage - INFO: Element not found with locator: //div[contains(@class, 'alert') and contains(text(), 'Invalid email or password.')] and locator type xpath
+06/28/2020 08:56:46 PM - LoginPage - INFO: Element not found
+06/28/2020 08:56:52 PM - LoginPage - INFO: Element not found with locator: Login and locator type link
+06/28/2020 08:56:52 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+06/28/2020 08:56:57 PM - LoginPage - INFO: Element not found with locator: user_email and locator type id
+06/28/2020 08:56:57 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/28/2020 08:57:02 PM - LoginPage - INFO: Element not found with locator: user_password and locator type id
+06/28/2020 08:57:02 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/28/2020 08:57:07 PM - LoginPage - INFO: Element not found with locator: commit and locator type name
+06/28/2020 08:57:07 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+06/28/2020 08:57:07 PM - LoginPage - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/screenshot_test.1593367027487.png
+06/28/2020 08:57:07 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+06/28/2020 08:57:07 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+06/28/2020 08:57:07 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+06/28/2020 08:57:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title is correct
+06/28/2020 08:57:07 PM - LoginPage - INFO: Element Found with locator: //*[@id='navbar']//img[contains(@class, 'gravatar')] and locator type xpath
+06/28/2020 08:57:07 PM - LoginPage - INFO: Element Found
+06/28/2020 08:57:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login icon is correct
+06/28/2020 08:57:07 PM - TestStatus - INFO: test_valid_login ### TEST SUCCESSFUL
+06/28/2020 08:58:54 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:58:54 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:58:54 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:58:55 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:58:55 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and locator type xpath
+06/28/2020 08:58:55 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
+06/28/2020 08:58:56 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:59:02 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:59:07 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:59:07 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:59:07 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:59:07 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:59:07 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:59:07 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:59:07 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:59:07 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:59:07 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:59:07 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:59:08 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:59:08 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:59:08 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:59:08 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:59:13 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:59:18 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:59:18 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:59:23 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:59:28 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:59:28 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:59:34 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:59:34 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 08:59:39 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 08:59:39 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 08:59:39 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 08:59:39 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 08:59:40 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 08:59:40 PM - RegisterCoursesPage - INFO: Element Found with locator: //a[contains(text(), 'All Courses')] and locator type xpath
+06/28/2020 08:59:40 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(), 'All Courses')] locatorType: xpath
+06/28/2020 08:59:40 PM - RegisterCoursesPage - INFO: Element Found with locator: search-courses and locator type id
+06/28/2020 08:59:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: search-courses locatorType: id
+06/28/2020 08:59:41 PM - RegisterCoursesPage - INFO: Element Found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] and locator type xpath
+06/28/2020 08:59:41 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+06/28/2020 08:59:42 PM - RegisterCoursesPage - INFO: Element Found with locator: enroll-button-top and locator type id
+06/28/2020 08:59:45 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
+06/28/2020 08:59:50 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:59:50 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:59:50 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:59:50 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cardnumber'] and locator type xpath
+06/28/2020 08:59:50 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:59:50 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:59:50 PM - RegisterCoursesPage - INFO: 0
+06/28/2020 08:59:50 PM - RegisterCoursesPage - INFO: Waiting for maximum :: 10 :: seconds for element to be visible
+06/28/2020 08:59:50 PM - RegisterCoursesPage - INFO: Element appeared on the web page
+06/28/2020 08:59:51 PM - RegisterCoursesPage - DEBUG: Text is not sent by xpath in field so i will try to send string char by char!
+06/28/2020 08:59:51 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+06/28/2020 08:59:51 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:59:51 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:59:51 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 08:59:56 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:59:56 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 08:59:56 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:59:56 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 08:59:56 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 08:59:56 PM - RegisterCoursesPage - INFO: 1
+06/28/2020 08:59:56 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='exp-date'] and locator type xpath
+06/28/2020 08:59:57 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+06/28/2020 08:59:57 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 08:59:57 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 08:59:57 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 09:00:02 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 09:00:02 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: 2
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='cvc'] and locator type xpath
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: Elements Found with locator: //iframe and locator type xpath
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: Length of iframe list: 
+06/28/2020 09:00:07 PM - RegisterCoursesPage - INFO: 10
+06/28/2020 09:00:12 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 09:00:12 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 09:00:17 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 09:00:17 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 09:00:22 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 09:00:22 PM - RegisterCoursesPage - INFO: Element not found
+06/28/2020 09:00:22 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 09:00:22 PM - RegisterCoursesPage - INFO: Element Found
+06/28/2020 09:00:22 PM - RegisterCoursesPage - INFO: iframe index is:
+06/28/2020 09:00:22 PM - RegisterCoursesPage - INFO: 3
+06/28/2020 09:00:22 PM - RegisterCoursesPage - INFO: Element Found with locator: //input[@name='postal'] and locator type xpath
+06/28/2020 09:00:22 PM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+06/28/2020 09:00:22 PM - RegisterCoursesPage - INFO: Element Found with locator: agreed_to_terms_checkbox and locator type id
+06/28/2020 09:00:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+06/28/2020 09:00:23 PM - RegisterCoursesPage - INFO: Element Found with locator: //button[@id='confirm-purchase'] and locator type xpath
+06/28/2020 09:00:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase'] locatorType: xpath
+06/28/2020 09:00:23 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollment Failed Verification
+06/28/2020 09:00:23 PM - TestStatus - INFO: test_invalid_enrollment ### TEST SUCCESSFUL
+06/28/2020 09:00:23 PM - NavigationPage - INFO: Element Found with locator: //a[@class='navbar-brand header-logo'] and locator type xpath
+06/28/2020 09:00:24 PM - NavigationPage - INFO: Clicked on element with locator: //a[@class='navbar-brand header-logo'] locatorType: xpath
+06/28/2020 09:00:29 PM - NavigationPage - INFO: Element not found with locator: _successful_login and locator type xpath
+06/28/2020 09:00:29 PM - NavigationPage - INFO: Cannot click on the element with locator: _successful_login locatorType: xpath
+06/28/2020 09:00:29 PM - NavigationPage - INFO: Element Found with locator: .user-signout and locator type css
+06/28/2020 09:00:34 PM - NavigationPage - INFO: Cannot click on the element with locator: .user-signout locatorType: css
+06/28/2020 09:00:34 PM - NavigationPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+06/28/2020 09:00:46 PM - NavigationPage - INFO: Element not appeared on the web page

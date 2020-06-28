@@ -1,0 +1,148 @@
+06/27/2020 04:26:23 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/27/2020 04:26:23 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/27/2020 04:26:28 PM - LoginPage - INFO: Element not found with locator: user_email and locator type id
+06/27/2020 04:26:28 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/27/2020 04:26:33 PM - LoginPage - INFO: Element not found with locator: user_password and locator type id
+06/27/2020 04:26:33 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/27/2020 04:26:38 PM - LoginPage - INFO: Element not found with locator: commit and locator type name
+06/27/2020 04:27:02 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+06/27/2020 04:30:58 PM - LoginPage - ERROR: ### Exception Occurred when taking screenshot
+06/27/2020 04:32:04 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/27/2020 04:32:04 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/27/2020 04:32:07 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/27/2020 04:32:07 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/27/2020 04:32:07 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/27/2020 04:32:08 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/27/2020 04:32:08 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/27/2020 04:32:08 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/27/2020 04:34:43 PM - LoginPage - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/src/base/../../screenshots/screenshot_test.1593264732679.png
+06/27/2020 04:34:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title is correct
+06/27/2020 04:34:43 PM - LoginPage - INFO: Element Found with locator: //*[@id='navbar']//img[contains(@class, 'gravatar')] and locator type xpath
+06/27/2020 04:34:43 PM - LoginPage - INFO: Element Found
+06/27/2020 04:34:47 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login icon is correct
+06/27/2020 04:34:47 PM - TestStatus - INFO: test_valid_login ### TEST SUCCESSFUL
+06/27/2020 04:40:35 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/27/2020 04:40:35 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/27/2020 04:40:37 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/27/2020 04:40:37 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/27/2020 04:40:37 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/27/2020 04:40:37 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/27/2020 04:40:37 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/27/2020 04:40:38 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/27/2020 04:40:38 PM - LoginPage - INFO: Element Found with locator: //div[contains(@class, 'alert') and contains(text(), 'Invalid email or password.')] and locator type xpath
+06/27/2020 04:40:38 PM - LoginPage - INFO: Element Found
+06/27/2020 04:40:39 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/27/2020 04:40:39 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/27/2020 04:40:40 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/27/2020 04:40:41 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/27/2020 04:40:41 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/27/2020 04:40:41 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/27/2020 04:40:41 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/27/2020 04:40:44 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/27/2020 04:40:44 PM - LoginPage - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/screenshot_test.1593265244571.png
+06/27/2020 04:40:44 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is correct
+06/27/2020 04:40:45 PM - TestStatus - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/Title is correct.1593265244968.png
+06/27/2020 04:40:45 PM - LoginPage - INFO: Element Found with locator: //*[@id='navbar']//img[contains(@class, 'gravatar')] and locator type xpath
+06/27/2020 04:40:45 PM - LoginPage - INFO: Element Found
+06/27/2020 04:40:45 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login icon is correct
+06/27/2020 04:40:45 PM - TestStatus - ERROR: test_valid_login ### TEST FAILED
+06/27/2020 05:22:33 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/27/2020 05:22:33 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/27/2020 05:22:36 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/27/2020 05:22:36 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/27/2020 05:22:36 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/27/2020 05:22:36 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/27/2020 05:22:36 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/27/2020 05:22:40 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/27/2020 05:22:40 PM - LoginPage - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/screenshot_test.1593267760115.png
+06/27/2020 05:22:40 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+06/27/2020 05:22:40 PM - Util - INFO: Expected Text From Application Web UI --> :: Google
+06/27/2020 05:22:40 PM - Util - INFO: ### VERIFICATION DOES NOT CONTAIN !!!
+06/27/2020 05:22:40 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is correct
+06/27/2020 05:22:40 PM - TestStatus - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/Title is correct.1593267760487.png
+06/27/2020 05:22:40 PM - LoginPage - INFO: Element Found with locator: //*[@id='navbar']//img[contains(@class, 'gravatar')] and locator type xpath
+06/27/2020 05:22:40 PM - LoginPage - INFO: Element Found
+06/27/2020 05:22:40 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login icon is correct
+06/27/2020 05:22:40 PM - TestStatus - ERROR: test_valid_login ### TEST FAILED
+06/27/2020 05:44:15 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/27/2020 05:44:15 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/27/2020 05:44:17 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/27/2020 05:44:17 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/27/2020 05:44:17 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/27/2020 05:44:18 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/27/2020 05:44:18 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/27/2020 05:44:18 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/27/2020 05:44:21 PM - LoginPage - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/screenshot_test.1593269058182.png
+06/27/2020 05:44:21 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+06/27/2020 05:44:21 PM - Util - INFO: Expected Text From Application Web UI --> :: Google
+06/27/2020 05:44:21 PM - Util - ERROR: ### VERIFICATION DOES NOT CONTAIN !!!
+06/27/2020 05:44:21 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title is correct
+06/27/2020 05:44:22 PM - TestStatus - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/Title is correct.1593269061846.png
+06/27/2020 05:44:22 PM - LoginPage - INFO: Element Found with locator: //*[@id='navbar']//img[contains(@class, 'gravatar')] and locator type xpath
+06/27/2020 05:44:22 PM - LoginPage - INFO: Element Found
+06/27/2020 05:44:22 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login icon is correct
+06/27/2020 05:44:22 PM - TestStatus - ERROR: test_valid_login ### TEST FAILED
+06/27/2020 07:46:45 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/27/2020 07:46:45 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/27/2020 07:46:48 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/27/2020 07:46:48 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/27/2020 07:46:48 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/27/2020 07:46:48 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/27/2020 07:46:48 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/27/2020 07:46:49 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/27/2020 07:46:50 PM - LoginPage - INFO: Element Found with locator: //div[contains(@class, 'alert') and contains(text(), 'Invalid email or password.')] and locator type xpath
+06/27/2020 07:46:50 PM - LoginPage - INFO: Element Found
+06/27/2020 07:46:51 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/27/2020 07:46:51 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/27/2020 07:46:53 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/27/2020 07:46:53 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/27/2020 07:46:53 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/27/2020 07:46:53 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/27/2020 07:46:53 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/27/2020 07:46:57 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/27/2020 07:46:58 PM - LoginPage - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/screenshot_test.1593276417701.png
+06/27/2020 07:46:58 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+06/27/2020 07:46:58 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+06/27/2020 07:46:58 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+06/27/2020 07:46:58 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title is correct
+06/27/2020 07:46:58 PM - LoginPage - INFO: Element Found with locator: //*[@id='navbar']//img[contains(@class, 'gravatar')] and locator type xpath
+06/27/2020 07:46:58 PM - LoginPage - INFO: Element Found
+06/27/2020 07:46:58 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login icon is correct
+06/27/2020 07:46:58 PM - TestStatus - INFO: test_valid_login ### TEST SUCCESSFUL
+06/28/2020 05:39:05 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/28/2020 05:39:05 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/28/2020 05:39:10 PM - LoginPage - INFO: Element not found with locator: user_email and locator type id
+06/28/2020 05:39:10 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
+06/28/2020 05:39:15 PM - LoginPage - INFO: Element not found with locator: user_password and locator type id
+06/28/2020 05:39:15 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
+06/28/2020 05:39:20 PM - LoginPage - INFO: Element not found with locator: commit and locator type name
+06/28/2020 05:39:20 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+06/28/2020 05:39:28 PM - LoginPage - INFO: Element Found with locator: //div[contains(@class, 'alert') and contains(text(), 'Invalid email or password.')] and locator type xpath
+06/28/2020 05:39:28 PM - LoginPage - INFO: Element not found
+06/28/2020 05:39:35 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/28/2020 05:39:35 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/28/2020 05:39:37 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/28/2020 05:39:37 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/28/2020 05:39:37 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/28/2020 05:39:37 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/28/2020 05:39:37 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/28/2020 05:39:37 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/28/2020 05:39:38 PM - LoginPage - INFO: Element Found with locator: //div[contains(@class, 'alert') and contains(text(), 'Invalid email or password.')] and locator type xpath
+06/28/2020 05:39:38 PM - LoginPage - INFO: Element Found
+06/28/2020 05:39:39 PM - LoginPage - INFO: Element Found with locator: Login and locator type link
+06/28/2020 05:39:39 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+06/28/2020 05:39:40 PM - LoginPage - INFO: Element Found with locator: user_email and locator type id
+06/28/2020 05:39:40 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+06/28/2020 05:39:40 PM - LoginPage - INFO: Element Found with locator: user_password and locator type id
+06/28/2020 05:39:40 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+06/28/2020 05:39:40 PM - LoginPage - INFO: Element Found with locator: commit and locator type name
+06/28/2020 05:39:43 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
+06/28/2020 05:39:43 PM - LoginPage - INFO: Screenshot save to directory: /home/alexey/Dev/PythonProjects/SeleniumWebDriverCourse/screenshots/screenshot_test.1593355183406.png
+06/28/2020 05:39:43 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+06/28/2020 05:39:43 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
+06/28/2020 05:39:43 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+06/28/2020 05:39:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title is correct
+06/28/2020 05:39:43 PM - LoginPage - INFO: Element Found with locator: //*[@id='navbar']//img[contains(@class, 'gravatar')] and locator type xpath
+06/28/2020 05:39:43 PM - LoginPage - INFO: Element Found
+06/28/2020 05:39:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login icon is correct
+06/28/2020 05:39:43 PM - TestStatus - INFO: test_valid_login ### TEST SUCCESSFUL
